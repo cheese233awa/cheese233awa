@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cheese233awa
+- 👀 I’m interested in games(?
+- 🌱 I’m currently learning Python and C++
